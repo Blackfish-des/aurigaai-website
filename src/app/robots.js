@@ -4,6 +4,6 @@ export default function robots() {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://aurigaai.com.au/sitemap.xml',
+    sitemap: 'https://carinai.com.au/sitemap.xml',
   };
 }

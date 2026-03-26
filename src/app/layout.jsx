@@ -10,19 +10,19 @@ const inter = Inter({
 });
 
 export const metadata = {
-  metadataBase: new URL('https://aurigaai.com.au'),
+  metadataBase: new URL('https://carinai.com.au'),
   title: {
-    default: 'Auriga AI — AI Governance Consulting for Australian Organisations',
-    template: '%s | Auriga AI',
+    default: 'Carinai — AI Governance Consulting for Australian Organisations',
+    template: '%s | Carinai',
   },
   description:
-    'Auriga AI helps Australian organisations govern AI with confidence. Expert AI risk frameworks, policy suites, and regulatory compliance — built for the APS AI Policy and beyond.',
+    'Carinai helps Australian organisations govern AI with confidence. Expert AI risk frameworks, policy suites, and regulatory compliance — built for the APS AI Policy and beyond.',
   openGraph: {
     type: 'website',
     locale: 'en_AU',
-    url: 'https://aurigaai.com.au',
-    siteName: 'Auriga AI',
-    images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'Auriga AI' }],
+    url: 'https://carinai.com.au',
+    siteName: 'Carinai',
+    images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'Carinai' }],
   },
   twitter: {
     card: 'summary_large_image',
@@ -37,11 +37,11 @@ export const metadata = {
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'ProfessionalService',
-  name: 'Auriga AI',
+  name: 'Carinai',
   description:
     'AI governance consulting for Australian organisations. AI risk frameworks, policy suites, and regulatory compliance.',
-  url: 'https://aurigaai.com.au',
-  email: 'hello@aurigaai.com.au',
+  url: 'https://carinai.com.au',
+  email: 'hello@carinai.com.au',
   areaServed: 'AU',
   serviceType: 'AI Governance Consulting',
 };

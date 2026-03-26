@@ -12,7 +12,7 @@ export default function EngagementProcess() {
         </h2>
         <p className="text-blue-200 text-lg max-w-2xl mx-auto">
           From first conversation to embedded governance partner — here&apos;s
-          how every Auriga AI engagement unfolds.
+          how every Carinai engagement unfolds.
         </p>
       </div>
 

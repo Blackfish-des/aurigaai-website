@@ -4,7 +4,7 @@ import { CONTACT_EMAIL, CONTACT_PHONE } from '@/lib/constants';
 
 const Wordmark = () => (
   <span className="text-2xl font-black text-white tracking-tight leading-none">
-    Auriga <span className="text-brand-teal">AI</span>
+    Carin<span className="text-brand-teal">ai</span>
   </span>
 );
 
@@ -22,7 +22,7 @@ export default function Footer() {
             </Link>
             <p className="mt-4 text-sm text-blue-200 max-w-xs">
               Australian AI governance consulting. We help organisations steer AI
-              with confidence.
+              with confidence. Named for Carina — the keel of Argo, visible in the southern sky.
             </p>
           </div>
 
@@ -82,7 +82,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-10 pt-6 border-t border-blue-800 flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-blue-300">
-          <p>© {year} Auriga AI Pty Ltd. All rights reserved.</p>
+          <p>© {year} Carinai Pty Ltd. All rights reserved.</p>
           <p>ABN placeholder · ACN placeholder</p>
         </div>
       </div>

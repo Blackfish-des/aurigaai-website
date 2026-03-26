@@ -5,7 +5,7 @@ import ValuesSection from '@/components/about/ValuesSection';
 export const metadata = {
   title: 'About',
   description:
-    'Learn about Auriga AI — an Australian AI governance consultancy built by practitioners, for practitioners. Our story, approach, and values.',
+    'Learn about Carinai — an Australian AI governance consultancy built by practitioners, for practitioners. Our story, approach, and values.',
 };
 
 export default function AboutPage() {

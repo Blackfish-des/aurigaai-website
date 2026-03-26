@@ -15,7 +15,7 @@ export default function HeroSection() {
             <span className="text-brand-teal">confidence.</span>
           </h1>
           <p className="text-lg sm:text-xl text-blue-200 leading-relaxed mb-10 max-w-2xl">
-            Auriga AI helps Australian organisations build AI governance frameworks
+            Carinai helps Australian organisations build AI governance frameworks
             that satisfy regulators, protect your reputation, and let your teams
             move fast — without breaking trust.
           </p>

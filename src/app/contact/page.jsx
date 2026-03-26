@@ -4,7 +4,7 @@ import ContactForm from '@/components/contact/ContactForm';
 export const metadata = {
   title: 'Contact',
   description:
-    'Get in touch with Auriga AI. Book a free 30-minute discovery call or send us a message. Based in Australia, serving ANZ and beyond.',
+    'Get in touch with Carinai. Book a free 30-minute discovery call or send us a message. Based in Australia, serving ANZ and beyond.',
 };
 
 export default function ContactPage() {

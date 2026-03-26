@@ -1,5 +1,5 @@
 export default function sitemap() {
-  const baseUrl = 'https://aurigaai.com.au';
+  const baseUrl = 'https://carinai.com.au';
 
   return [
     {

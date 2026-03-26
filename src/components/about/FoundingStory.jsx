@@ -14,22 +14,23 @@ export default function FoundingStory() {
             </h1>
             <div className="space-y-5 text-gray-700 leading-relaxed">
               <p>
-                Auriga AI was founded after watching too many organisations
+                Carinai was founded after watching too many organisations
                 deploy AI systems without any governance scaffolding — and then
                 scramble when things went wrong. We saw the same story play out
                 again and again: capable teams, good intentions, and no
                 framework to catch the gaps.
               </p>
               <p>
-                We built Auriga AI to change that. Our team brings together
+                We built Carinai to change that. Our team brings together
                 expertise in AI policy, enterprise risk management, and public
                 sector governance to deliver frameworks that are practical,
                 audit-ready, and genuinely embedded — not just filed away.
               </p>
               <p>
-                The name Auriga comes from the constellation of the charioteer
-                — the driver who keeps fast-moving systems under control. That&apos;s
-                exactly what we do for your AI.
+                The name comes from Carina — the keel of the great ship Argo,
+                a constellation of the southern sky. A keel doesn&apos;t steer the
+                ship, but without it nothing holds together. That&apos;s what
+                governance does for AI.
               </p>
             </div>
           </div>
@@ -39,9 +40,9 @@ export default function FoundingStory() {
             <div className="relative w-full max-w-sm">
               <div className="absolute inset-0 bg-brand-teal rounded-2xl translate-x-4 translate-y-4" />
               <div className="relative bg-brand-navy rounded-2xl p-10 text-white z-10">
-                <div className="text-6xl font-black text-brand-teal mb-2">α</div>
-                <p className="text-lg font-bold mb-1">Auriga</p>
-                <p className="text-blue-200 text-sm mb-8">The Charioteer</p>
+                <div className="text-6xl font-black text-brand-teal mb-2">η</div>
+                <p className="text-lg font-bold mb-1">Carina</p>
+                <p className="text-blue-200 text-sm mb-8">The Keel · Southern Sky</p>
                 <div className="space-y-3 text-sm text-blue-200">
                   <div className="flex items-center gap-2">
                     <span className="w-2 h-2 rounded-full bg-brand-teal" />

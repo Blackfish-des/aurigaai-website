@@ -8,7 +8,7 @@ import { CALENDLY_URL } from '@/lib/constants';
 
 const Wordmark = () => (
   <span className="text-2xl font-black text-brand-navy tracking-tight leading-none">
-    Auriga <span className="text-brand-teal">AI</span>
+    Carin<span className="text-brand-teal">ai</span>
   </span>
 );
 
